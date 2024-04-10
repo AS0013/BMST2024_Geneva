@@ -4,5 +4,5 @@ This project is part of BMST2024 project with the Univerisity of Geneva as part 
 
 # How to run
 - The GAMA model is in src/model and the shapefiles needed are in src/includes.
-- Upload the src onto the gama platform, and inside gama go to src/model/TramLine.
+- Upload the src onto the gama platform, and inside gama go to src/model/TramLines.gaml.
 - Then you should be able to start the simulation from there.
