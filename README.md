@@ -9,4 +9,4 @@ This project is part of BMST2024 project with the Univerisity of Geneva as part 
 
 
 
-<a href="Agent_Based_Modelling_FINAL.pdf" class="image fit"></a>
+<a href="https://github.com/AS0013/BMST2024_Geneva/blob/main/Agent_Based_Modelling_FINAL.pdf" class="image fit"></a>
