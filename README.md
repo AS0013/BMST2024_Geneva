@@ -7,5 +7,3 @@ This project is part of BMST2024 project with the Univerisity of Geneva as part 
 - Upload the src onto the gama platform, and inside gama go to src/model/TramLines.gaml.
 - Then you should be able to start the simulation from there.
 
-
-Agent_Based_Modelling_FINAL.pdf
